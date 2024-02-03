@@ -1,0 +1,24 @@
+#btn-pmi{
+    background-color: #3D0B99;
+    color: white;
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 100px;
+    font-size: larger;
+}
+
+#pmi-footer-logo{
+    height: 75px;
+    
+}
+
+#footer-bg-portal{
+    background-color: #F5F5F5;
+}
+
+
+
+#pmi-logo-size{
+    height: 75px;
+}
